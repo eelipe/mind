@@ -1,0 +1,33 @@
+header .fotos h1{
+    text-align: center;
+  }
+  
+  img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid black;
+  
+  }
+  
+  .fotos {
+  
+    text-align: center;
+  }
+  
+  .photo-container {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 20px;
+  }
+  
+  .photo-container img {
+    margin-right: 25px;
+  }
+
+  .fotos{
+    font-family: 'League Spartan', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif; 
+  }
